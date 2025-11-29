@@ -54,7 +54,7 @@ Script SQL y diagrama ER disponibles en `/sql`.
 3. Configurar `Conexion.java`
 4. Ejecutar script SQL
 5. Clean & Build
-6. Ejecutar `FrmLogin.java`
+6. Ejecutar
 
 ---
 
